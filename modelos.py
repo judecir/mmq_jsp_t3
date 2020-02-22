@@ -527,8 +527,8 @@ def jsp_disjuntivo_minla_favorito(tempo, ordem, tempo_max=3600, fl_inteiro=True)
     # Restrições ##############################################################
     
     jsp_manne_rest_ordem_maq_job(modelo, x, z, cmax, y, Problema)
-    #jsp_manne_rest_precedencia(modelo, x, z, cmax, y, Problema)
-    #jsp_manne_rest_makespan(modelo, x, z, cmax, y, Problema)
+    jsp_manne_rest_precedencia(modelo, x, z, cmax, y, Problema)
+    jsp_manne_rest_makespan(modelo, x, z, cmax, y, Problema)
     
     # baseadas nas sugestoes do prof. Christophe
     jsp_minla_rest_lb_xik(modelo, x, z, cmax, y, Problema)
