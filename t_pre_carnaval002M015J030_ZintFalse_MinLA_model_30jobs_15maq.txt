@@ -1,0 +1,40 @@
+CPXPARAM_TimeLimit                               3600
+CPXPARAM_Read_DataCheck                          1
+Parallel mode: deterministic, using up to 8 threads for concurrent optimization.
+Tried aggregator 1 time.
+LP Presolve eliminated 683 rows and 0 columns.
+Reduced LP has 39817 rows, 6976 columns, and 118334 nonzeros.
+Presolve time = 0.01 sec. (19.56 ticks)
+
+Iteration log . . .
+Iteration:     1   Dual objective     =          1056.000000
+Perturbation started.
+Iteration:   850   Dual objective     =          1056.000000
+Iteration:   880   Dual objective     =          1056.000247
+Initializing dual steep norms . . .
+Iteration:   881   Dual objective     =          1056.000409
+Iteration:  1467   Dual objective     =          1056.001820
+Iteration:  2066   Dual objective     =          1056.002995
+Iteration:  2609   Dual objective     =          1056.007831
+Iteration:  3206   Dual objective     =          1056.012481
+Iteration:  3629   Dual objective     =          1056.016166
+Iteration:  3982   Dual objective     =          1056.019080
+Iteration:  4286   Dual objective     =          1056.025431
+Iteration:  4692   Dual objective     =          1056.026412
+Iteration:  4996   Dual objective     =          1056.029014
+Iteration:  5347   Dual objective     =          1056.030419
+Iteration:  5720   Dual objective     =          1056.032682
+Iteration:  6035   Dual objective     =          1056.033888
+Iteration:  6325   Dual objective     =          1056.035460
+Iteration:  6614   Dual objective     =          1056.036701
+Iteration:  6870   Dual objective     =          1056.039212
+Iteration:  7240   Dual objective     =          1056.040619
+Iteration:  7587   Dual objective     =          1056.043041
+Iteration:  7843   Dual objective     =          1056.045010
+Iteration:  8193   Dual objective     =          1056.046553
+Iteration:  8514   Dual objective     =          1056.048138
+Iteration:  8784   Dual objective     =          1056.050890
+Removing perturbation.
+
+Barrier solved model.
+

@@ -1,0 +1,1470 @@
+Criando modelo: t_pre_carnaval000M003J004_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 29.0
+Detalhes status  = integer optimal solution
+time    = 0.00713301 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: t_pre_carnaval000M003J004_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 29.0
+Detalhes status  = integer optimal solution
+time    = 0.00451708 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: t_pre_carnaval000M003J004_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.000353098 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M003J004_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 24.4926
+Detalhes status  = optimal
+time    = 0.000564814 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M003J005_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 33.0
+Detalhes status  = integer optimal solution
+time    = 0.008883 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: t_pre_carnaval000M003J005_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 33.0
+Detalhes status  = integer optimal solution
+time    = 0.00830603 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: t_pre_carnaval000M003J005_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 23.0
+Detalhes status  = optimal
+time    = 0.000375986 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M003J005_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 28.5586
+Detalhes status  = optimal
+time    = 0.000658989 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1210.0
+Detalhes status  = integer optimal, tolerance
+time    = 237.819 s.
+problem = MILP
+gap     = 8.41917e-07%
+
+Criando modelo: t_pre_carnaval000M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1210.0
+Detalhes status  = integer optimal, tolerance
+time    = 299.503 s.
+problem = MILP
+gap     = 1.18427e-08%
+
+Criando modelo: t_pre_carnaval000M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.0187659 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 982.4702
+Detalhes status  = optimal
+time    = 0.0845339 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval001M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1177.0
+Detalhes status  = integer optimal, tolerance
+time    = 975.857 s.
+problem = MILP
+gap     = 0.00283206%
+
+Criando modelo: t_pre_carnaval001M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1177.0
+Detalhes status  = integer optimal, tolerance
+time    = 3379.17 s.
+problem = MILP
+gap     = 0.0094402%
+
+Criando modelo: t_pre_carnaval001M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 942.0
+Detalhes status  = optimal
+time    = 0.018687 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval001M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 945.6248
+Detalhes status  = optimal
+time    = 0.112048 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval002M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1197.0
+Detalhes status  = integer optimal, tolerance
+time    = 2536.4 s.
+problem = MILP
+gap     = 0.00815219%
+
+Criando modelo: t_pre_carnaval002M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1197.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 1.75439%
+
+Criando modelo: t_pre_carnaval002M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 921.0
+Detalhes status  = optimal
+time    = 0.021631 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval002M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 947.8456
+Detalhes status  = optimal
+time    = 0.0931311 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval003M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1176.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 7.2182%
+
+Criando modelo: t_pre_carnaval003M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1172.0
+Detalhes status  = integer optimal, tolerance
+time    = 1497.86 s.
+problem = MILP
+gap     = 0.00724451%
+
+Criando modelo: t_pre_carnaval003M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 911.0
+Detalhes status  = optimal
+time    = 0.0189738 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval003M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 911.0
+Detalhes status  = optimal
+time    = 0.0896881 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval004M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1234.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 7.77958%
+
+Criando modelo: t_pre_carnaval004M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1243.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 8.60821%
+
+Criando modelo: t_pre_carnaval004M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 940.0
+Detalhes status  = optimal
+time    = 0.019423 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval004M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 975.6943
+Detalhes status  = optimal
+time    = 0.0971851 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval005M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1162.0
+Detalhes status  = integer optimal, tolerance
+time    = 1573.84 s.
+problem = MILP
+gap     = 0.00965988%
+
+Criando modelo: t_pre_carnaval005M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1162.0
+Detalhes status  = integer optimal, tolerance
+time    = 1675.72 s.
+problem = MILP
+gap     = 0.00889615%
+
+Criando modelo: t_pre_carnaval005M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 849.0
+Detalhes status  = optimal
+time    = 0.021466 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval005M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 915.0572
+Detalhes status  = optimal
+time    = 0.105359 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval006M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1243.0
+Detalhes status  = integer optimal, tolerance
+time    = 294.664 s.
+problem = MILP
+gap     = 0.00554831%
+
+Criando modelo: t_pre_carnaval006M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1243.0
+Detalhes status  = integer optimal, tolerance
+time    = 900.183 s.
+problem = MILP
+gap     = 0.00848634%
+
+Criando modelo: t_pre_carnaval006M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 935.0
+Detalhes status  = optimal
+time    = 0.0211029 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval006M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 979.4328
+Detalhes status  = optimal
+time    = 0.0866971 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval007M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1181.0
+Detalhes status  = integer optimal solution
+time    = 52.0112 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: t_pre_carnaval007M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1181.0
+Detalhes status  = integer optimal solution
+time    = 124.71 s.
+problem = MILP
+gap     = 0%
+
+Criando modelo: t_pre_carnaval007M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.017453 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval007M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 963.0
+Detalhes status  = optimal
+time    = 0.079052 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval008M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1293.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 6.57386%
+
+Criando modelo: t_pre_carnaval008M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1293.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 8.58469%
+
+Criando modelo: t_pre_carnaval008M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 982.0
+Detalhes status  = optimal
+time    = 0.0200419 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval008M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1012.3757
+Detalhes status  = optimal
+time    = 0.0949788 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval009M015J015_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1217.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 10.3875%
+
+Criando modelo: t_pre_carnaval009M015J015_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1206.0
+Detalhes status  = integer optimal, tolerance
+time    = 1110.4 s.
+problem = MILP
+gap     = 0.0095878%
+
+Criando modelo: t_pre_carnaval009M015J015_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 896.0
+Detalhes status  = optimal
+time    = 0.0201311 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval009M015J015_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 988.8829
+Detalhes status  = optimal
+time    = 0.0951321 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1382.0
+Detalhes status  = time limit exceeded
+time    = 3601.14 s.
+problem = MILP
+gap     = 17.6714%
+
+Criando modelo: t_pre_carnaval000M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1455.0
+Detalhes status  = time limit exceeded
+time    = 3601.12 s.
+problem = MILP
+gap     = 27.4019%
+
+Criando modelo: t_pre_carnaval000M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 949.0
+Detalhes status  = optimal
+time    = 0.0405371 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 992.1796
+Detalhes status  = optimal
+time    = 0.300085 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval001M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1440.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 23.451%
+
+Criando modelo: t_pre_carnaval001M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1472.0
+Detalhes status  = time limit exceeded
+time    = 3601.74 s.
+problem = MILP
+gap     = 25.1844%
+
+Criando modelo: t_pre_carnaval001M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1012.0
+Detalhes status  = optimal
+time    = 0.0386939 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval001M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1031.4637
+Detalhes status  = optimal
+time    = 0.296558 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval002M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1390.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 17.7323%
+
+Criando modelo: t_pre_carnaval002M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1458.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 22.9282%
+
+Criando modelo: t_pre_carnaval002M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 919.0
+Detalhes status  = optimal
+time    = 0.046514 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval002M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1057.7603
+Detalhes status  = optimal
+time    = 0.229654 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval003M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1332.0
+Detalhes status  = time limit exceeded
+time    = 3600.82 s.
+problem = MILP
+gap     = 19.8921%
+
+Criando modelo: t_pre_carnaval003M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1392.0
+Detalhes status  = time limit exceeded
+time    = 3601.49 s.
+problem = MILP
+gap     = 21.8344%
+
+Criando modelo: t_pre_carnaval003M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.0593829 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval003M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1004.1357
+Detalhes status  = optimal
+time    = 0.277368 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval004M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1412.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 23.7252%
+
+Criando modelo: t_pre_carnaval004M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1424.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 17.1142%
+
+Criando modelo: t_pre_carnaval004M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 880.0
+Detalhes status  = optimal
+time    = 0.0375242 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval004M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1053.1512
+Detalhes status  = optimal
+time    = 0.238241 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval005M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1500.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 28.0874%
+
+Criando modelo: t_pre_carnaval005M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1486.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 14.9544%
+
+Criando modelo: t_pre_carnaval005M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 932.0
+Detalhes status  = optimal
+time    = 0.0425391 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval005M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1141.3458
+Detalhes status  = optimal
+time    = 0.224617 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval006M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1466.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 21.8719%
+
+Criando modelo: t_pre_carnaval006M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1509.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 17.3711%
+
+Criando modelo: t_pre_carnaval006M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 979.0
+Detalhes status  = optimal
+time    = 0.0398221 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval006M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1106.4981
+Detalhes status  = optimal
+time    = 0.234821 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval007M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1509.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 27.7667%
+
+Criando modelo: t_pre_carnaval007M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1514.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 28.4485%
+
+Criando modelo: t_pre_carnaval007M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 900.0
+Detalhes status  = optimal
+time    = 0.0446761 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval007M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1027.4874
+Detalhes status  = optimal
+time    = 0.256448 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval008M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1380.0
+Detalhes status  = time limit exceeded
+time    = 3601.02 s.
+problem = MILP
+gap     = 22.6852%
+
+Criando modelo: t_pre_carnaval008M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1456.0
+Detalhes status  = time limit exceeded
+time    = 3600.06 s.
+problem = MILP
+gap     = 21.772%
+
+Criando modelo: t_pre_carnaval008M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 920.0
+Detalhes status  = optimal
+time    = 0.0379319 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval008M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1026.7777
+Detalhes status  = optimal
+time    = 0.295484 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval009M015J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1423.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 24.4812%
+
+Criando modelo: t_pre_carnaval009M015J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1490.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 26.9394%
+
+Criando modelo: t_pre_carnaval009M015J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 928.0
+Detalhes status  = optimal
+time    = 0.0369301 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval009M015J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1026.9079
+Detalhes status  = optimal
+time    = 0.277405 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1619.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 15.5215%
+
+Criando modelo: t_pre_carnaval000M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1658.0
+Detalhes status  = time limit exceeded
+time    = 3601.78 s.
+problem = MILP
+gap     = 21.1446%
+
+Criando modelo: t_pre_carnaval000M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1217.0
+Detalhes status  = optimal
+time    = 0.0588999 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1218.9739
+Detalhes status  = optimal
+time    = 0.405259 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval001M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1644.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 18.0735%
+
+Criando modelo: t_pre_carnaval001M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1648.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 19.5067%
+
+Criando modelo: t_pre_carnaval001M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1223.0
+Detalhes status  = optimal
+time    = 0.0655069 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval001M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1223.0
+Detalhes status  = optimal
+time    = 0.278453 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval002M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1630.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 17.5851%
+
+Criando modelo: t_pre_carnaval002M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1656.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 21.3299%
+
+Criando modelo: t_pre_carnaval002M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1164.0
+Detalhes status  = optimal
+time    = 0.0667849 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval002M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1212.6205
+Detalhes status  = optimal
+time    = 0.293676 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval003M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1689.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 21.8128%
+
+Criando modelo: t_pre_carnaval003M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1714.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 22.9872%
+
+Criando modelo: t_pre_carnaval003M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1151.0
+Detalhes status  = optimal
+time    = 0.0629508 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval003M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1216.4731
+Detalhes status  = optimal
+time    = 0.350808 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval004M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1708.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 21.37%
+
+Criando modelo: t_pre_carnaval004M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1725.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 18.0128%
+
+Criando modelo: t_pre_carnaval004M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1170.0
+Detalhes status  = optimal
+time    = 0.0669761 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval004M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1298.2718
+Detalhes status  = optimal
+time    = 0.291422 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval005M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1654.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 18.1217%
+
+Criando modelo: t_pre_carnaval005M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1713.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 17.338%
+
+Criando modelo: t_pre_carnaval005M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1207.0
+Detalhes status  = optimal
+time    = 0.066021 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval005M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1276.4428
+Detalhes status  = optimal
+time    = 0.275388 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval006M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1740.0
+Detalhes status  = time limit exceeded
+time    = 3600.11 s.
+problem = MILP
+gap     = 18.1087%
+
+Criando modelo: t_pre_carnaval006M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1735.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 17.8029%
+
+Criando modelo: t_pre_carnaval006M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1291.0
+Detalhes status  = optimal
+time    = 0.0652671 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval006M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1291.0
+Detalhes status  = optimal
+time    = 0.285833 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval007M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1632.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 13.6737%
+
+Criando modelo: t_pre_carnaval007M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1619.0
+Detalhes status  = time limit exceeded
+time    = 3600.03 s.
+problem = MILP
+gap     = 14.1445%
+
+Criando modelo: t_pre_carnaval007M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1221.0
+Detalhes status  = optimal
+time    = 0.0675669 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval007M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1246.331
+Detalhes status  = optimal
+time    = 0.312976 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval008M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1669.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 16.2192%
+
+Criando modelo: t_pre_carnaval008M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1669.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 14.3669%
+
+Criando modelo: t_pre_carnaval008M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1227.0
+Detalhes status  = optimal
+time    = 0.06651 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval008M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1253.4699
+Detalhes status  = optimal
+time    = 0.349375 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval009M020J020_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1645.0
+Detalhes status  = time limit exceeded
+time    = 3600.01 s.
+problem = MILP
+gap     = 16.2795%
+
+Criando modelo: t_pre_carnaval009M020J020_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1652.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 17.8228%
+
+Criando modelo: t_pre_carnaval009M020J020_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1212.0
+Detalhes status  = optimal
+time    = 0.0648398 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval009M020J020_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1275.3368
+Detalhes status  = optimal
+time    = 0.263415 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M015J030_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1904.0
+Detalhes status  = time limit exceeded
+time    = 3601.29 s.
+problem = MILP
+gap     = 41.5699%
+
+Criando modelo: t_pre_carnaval000M015J030_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 2083.0
+Detalhes status  = time limit exceeded
+time    = 3600.03 s.
+problem = MILP
+gap     = 35.2429%
+
+Criando modelo: t_pre_carnaval000M015J030_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 990.0
+Detalhes status  = optimal
+time    = 0.131571 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval000M015J030_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1319.5714
+Detalhes status  = optimal
+time    = 1.31418 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval001M015J030_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 2106.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 47.3353%
+
+Criando modelo: t_pre_carnaval001M015J030_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 2232.0
+Detalhes status  = time limit exceeded
+time    = 3600.03 s.
+problem = MILP
+gap     = 36.5918%
+
+Criando modelo: t_pre_carnaval001M015J030_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 972.0
+Detalhes status  = optimal
+time    = 0.128405 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval001M015J030_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1389.5768
+Detalhes status  = optimal
+time    = 1.14274 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval002M015J030_ZintTrue_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1980.0
+Detalhes status  = time limit exceeded
+time    = 3600.02 s.
+problem = MILP
+gap     = 45.8205%
+
+Criando modelo: t_pre_carnaval002M015J030_ZintTrue_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 2000.0
+Detalhes status  = time limit exceeded
+time    = 3600.04 s.
+problem = MILP
+gap     = 26.4891%
+
+Criando modelo: t_pre_carnaval002M015J030_ZintFalse_Manne
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+disjuntivo_manne : 
+Cmax= 1056.0
+Detalhes status  = optimal
+time    = 0.130092 s.
+problem = LP
+
+Criando modelo: t_pre_carnaval002M015J030_ZintFalse_MinLA
+Modelo criado!
+Resolvendo...
+Modelo resolvido!
+model : 
+Cmax= 1438.415
+Detalhes status  = optimal
+time    = 1.49602 s.
+problem = LP
+
